@@ -43,22 +43,8 @@ I am Usman, a Software Engineering student at the University of the Punjab with 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen)](https://auth.geeksforgeeks.org/user/usmankha7y0u/)
 </div>
 
-## 📊 GitHub Stats:
-<div align="center">
-  
-![](https://github-readme-stats.shion.dev/api?username=Usman-Khalil&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Usman-Khalil&theme=codeSTACKr&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Usman-Khalil&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</div>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Usman-Khalil&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-</div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
