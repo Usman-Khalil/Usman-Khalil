@@ -27,7 +27,7 @@ I am Usman, a Software Engineering student at the University of the Punjab with 
 ### ◈  LeetCode
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/mgFp2oG184?theme=dark&border=1&radius=10&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/usman-k?theme=dark&border=1&radius=10&ext=heatmap" />
 </div>
 
 ### ◈ Code Forces
