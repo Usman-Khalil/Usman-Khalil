@@ -1,78 +1,152 @@
-# ◈ About Me:
-I am Usman, a Software Engineering student at the University of the Punjab with a strong passion for technology, programming, and problem-solving. I have experience in Python, C++, JavaScript, Frontend Development, and Data Analytics, and I enjoy building practical solutions while continuously expanding my technical skills.<br><br>Currently, I am strengthening my knowledge of Object-Oriented Programming (OOP) and Data Structures & Algorithms (DSA) to enhance my problem-solving abilities and actively participate in Competitive Programming contests.<br><br>I am always eager to learn new technologies, take on challenging projects, and connect with like-minded professionals who share an interest in software development and innovation.
-
-
-## ◈ ESTABLISH CONNECTION
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/usman-khalil-868b18381) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:usmankhalil6868@gmail.com) 
-</div>
-
-## 💻 Tech Stack:
-
-## ◈ Languages
-<div align="center">
-  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-</div>
-
-## ◈ Tools & Skills
-<div align="center">
-  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-</div>
-
-<!--
-## CP
-
-### ◈  LeetCode
+<!-- CYBER HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=UsmanKhalil&fontSize=75&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=%3E_%20LeetCode%20%7C%20CF_NewBie%20%7C%20Competitive_Programmer&descAlignY=58&descSize=18&descColor=39FF14&stroke=00F5FF&strokeWidth=2" width="100%"/>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/usman-k?theme=dark&border=1&radius=10&ext=heatmap" />
-</div>
 
-### ◈ Code Forces
-<div align="center">
-  
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=usmankhalil6868)](https://codeforces.com/profile/usmankhalil6868)
+<br/>
 
-</div>
+<!-- Cyber Badges -->
+<img src="https://komarev.com/ghpvc/?username=Usman-Khalil&style=for-the-badge&color=00F5FF&label=PROFILE+SCANS&labelColor=0A0E1A"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Usman-Khalil?style=for-the-badge&color=39FF14&label=OPERATIVES&logo=github&labelColor=0A0E1A"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0A0E1A&logo=statuspage"/>
 
-### ◈ GeeksforGeeks
-<div align="center">
-  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen)](https://auth.geeksforgeeks.org/user/usmankha7y0u/)
-</div>
--->
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Usman-Khalil&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=Usman-Khalil&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 </div>
 
 ---
+
+<!-- About Me Cyber Terminal -->
+<table>
+<tr>
+<td valign="top" width="55%">
+
+### `> SYSTEM_INFO.exe`
+
+```bash
+┌──[UsmanKhalil@cyber]─[~]
+│
+├─ NAME      : Usman Khalil
+├─ CODENAME  : Usman-Khalil
+├─ LOCATION  : Pakistan [pk]
+├─ CLASS     : Competitive Programmer
+│
+├─ MISSION   :
+│   ├── ⚡ Data Structures
+│   ├── 🤖 Algorithms
+│   ├── 🌐 DataBase
+│   └── 📊 Designing System
+│
+└─ UPTIME    : 24/7 ♾️
+```
+
+</td>
+<td valign="top" width="45%">
+
 <div align="center">
-  
-[![](https://komarev.com/ghpvc/?username=Usman-Khalil&icon=10&color=13)](https://visitcount.itsvg.in)
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340" alt="Cyber Hacker GIF"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+### `> TECH_STACK --list`
+
+<div align="center">
+
+**[ LANGUAGES ]**
+
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css&theme=dark&perline=7" />
+
+**[ INFRASTRUCTURE ]**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,meta,jira,notion,canva&theme=dark&perline=7" />
 
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--
-**Usman-Khalil/Usman-Khalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### `> CONTRIBUTION_MATRIX --render`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Usman-Khalil&bg_color=0A0E1A&color=00F5FF&line=39FF14&point=00F5FF&area_color=00F5FF&area=true&hide_border=true&custom_title=%5B+NEURAL+COMMIT+ACTIVITY+%5D&title_color=00F5FF" width="100%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+### `> GITHUB_STATS --verbose`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Usman-Khalil&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0E1A&title_color=00F5FF&icon_color=39FF14&text_color=00F5FF&ring_color=BF5AF2&rank_icon=github" height="185em"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-Khalil&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0A0E1A&title_color=00F5FF&text_color=00F5FF" height="185em"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Usman-Khalil&theme=synthwave&hide_border=true&background=0A0E1A&ring=00F5FF&fire=39FF14&currStreakLabel=00F5FF&sideLabels=BF5AF2&dates=888888&stroke=00F5FF" width="60%" alt="Streak Stats"/>
+
+</div>
+
+---
+
+### `> SNAKE.exe --eat-contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Usman-Khalil/Usman-Khalil/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Usman-Khalil/Usman-Khalil/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Usman-Khalil/Usman-Khalil/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+### `> ACHIEVEMENT_SCAN --unlock`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Usman-Khalil&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
+
+</div>
+
+---
+
+### `> ACTIVE_OPERATIONS --status`
+
+<div align="center">
+
+| `PROJECT` | `DESCRIPTION` | `STATUS` |
+|-----------|---------------|----------|
+| **Plant_Vs_Zombies** | Fun Game | `[COMPLETE ✓]` |
+| **Masm_Debugger** | Software Clone | `[COMPLETE ✓]` |
+
+</div>
+
+---
+
+### `> ESTABLISH_CONNECTION --protocols`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0A0E1A)](https://linkedin.com/in/YOUR_LINKEDIN)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0E1A)](https://instagram.com/YOUR_INSTAGRAM)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E1A)](usmankhalil6868@gmail.com)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" width="70%"/>
+
+</div>
+
+<!-- Cyber Footer -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=fadeIn&reversal=true" width="100%"/>
