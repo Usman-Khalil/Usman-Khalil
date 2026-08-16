@@ -1,0 +1,40 @@
+name: generate animation
+
+on:
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 */24 * * *"
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+  # runs on every push on the main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      # generates a GitHub contribution graph with a snake eating your contributions
+      - uses: Platane/snk@v3
+        id: snake-svg
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs_dir: dist
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
