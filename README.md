@@ -3,8 +3,10 @@
 
 <div align="center">
 
-<br/>
+<!-- Cyber Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=2000&pause=1000&color=00F5FF&background=00000000&center=true&vCenter=true&width=750&lines=%3E+Initializing+Usman.exe...;%3E+Loading+Competitive+Programmer...+%5BOK%5D;%3E+Data+Structures+And+Algorithms...+%5BOK%5D;%3E+LeetCode+300+Plus...+%5BOK%5D;%3E+CF+NewBie...+%5BOK%5D;%3E+Not++Ready+to+Compete.+%5BREADY%5D" alt="Cyber Typing" />
 
+<br/>
 <!-- Cyber Badges -->
 <img src="https://komarev.com/ghpvc/?username=Usman-Khalil&style=for-the-badge&color=00F5FF&label=PROFILE+SCANS&labelColor=0A0E1A"/>
 &nbsp;
@@ -104,16 +106,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Usman-Khalil/Usman-Khalil/output/github-contribution-grid-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/Usman-Khalil/Usman-Khalil/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
-
-</div>
-
----
-
-### `> ACHIEVEMENT_SCAN --unlock`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Usman-Khalil&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
 
 </div>
 
