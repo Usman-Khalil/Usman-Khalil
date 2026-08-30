@@ -1,11 +1,11 @@
-<!-- CYBER HEADER -->
+<!-- CYBER HEADER 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=UsmanKhalil&fontSize=75&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=%3E_%20LeetCode%20%7C%20CF_NewBie%20%7C%20Competitive_Programmer&descAlignY=58&descSize=18&descColor=39FF14&stroke=00F5FF&strokeWidth=2" width="100%"/>
-
+-->
 <div align="center">
 
-<!-- Cyber Typing Animation -->
+<!-- Cyber Typing Animation 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=2000&pause=1000&color=00F5FF&background=00000000&center=true&vCenter=true&width=750&lines=%3E+Initializing+Usman.exe...;%3E+Loading+Competitive+Programmer...+%5BOK%5D;%3E+Data+Structures+And+Algorithms...+%5BOK%5D;%3E+LeetCode+300+Plus...+%5BOK%5D;%3E+CF+NewBie...+%5BOK%5D;%3E+Not++Ready+to+Compete.+%5BREADY%5D" alt="Cyber Typing" />
-
+-->
 <br/>
 <!-- Cyber Badges -->
 <img src="https://komarev.com/ghpvc/?username=Usman-Khalil&style=for-the-badge&color=00F5FF&label=PROFILE+SCANS&labelColor=0A0E1A"/>
